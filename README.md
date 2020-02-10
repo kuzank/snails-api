@@ -7,9 +7,9 @@
 
 |      `框架源码`     | Gitee                                                        | GitHub                                                       |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Snails** 框架      | [https://gitee.com/kuzan/snails](https://gitee.com/kuzan/snails) | [https://github.com/danxiaogui/snails](https://github.com/danxiaogui/snails) |
-| **Snails-web** 前端  | [https://gitee.com/kuzan/snails-web](https://gitee.com/kuzan/snails-web) | [https://github.com/danxiaogui/snails-web](https://github.com/danxiaogui/snails-web) |
-| **Snails-api**  后台 | [https://gitee.com/kuzan/snails-api](https://gitee.com/kuzan/snails-api) | [https://github.com/danxiaogui/snails-api](https://github.com/danxiaogui/snails-api) |
+| **Snails** 框架      | [https://gitee.com/kuzank/snails](https://gitee.com/kuzank/snails) | [https://github.com/kuzank/snails](https://github.com/kuzank/snails) |
+| **Snails-web** 前端  | [https://gitee.com/kuzank/snails-web](https://gitee.com/kuzank/snails-web) | [https://github.com/kuzank/snails-web](https://github.com/kuzank/snails-web) |
+| **Snails-api**  后台 | [https://gitee.com/kuzank/snails-api](https://gitee.com/kuzank/snails-api) | [https://github.com/kuzank/snails-api](https://github.com/kuzank/snails-api) |
 
 ## 开发环境要求
 - Java 8
